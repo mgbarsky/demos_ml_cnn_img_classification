@@ -1,1 +1,1 @@
-# Demo for the lecture ''Convolutional Neural Networks''
+# Demos for the lecture ''Convolutional Neural Networks''
